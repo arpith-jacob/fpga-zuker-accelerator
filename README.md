@@ -11,5 +11,6 @@ http://www.cse.wustl.edu/~jarpith/download/dl.cgi?url=fccm10
 
 
 Note:
-Requires addition of interface code at the top level.
 
+- Requires addition of interface code at the top level.
+- To compute hairpin loops of size > 255 you must regenerate some tables
